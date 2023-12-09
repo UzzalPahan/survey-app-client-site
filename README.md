@@ -1,5 +1,5 @@
 # Survey app
-Preview Link: <a href="https://survey-app-cf431.web.app" taget="_blank">Survey App</a>
+Preview Link: <a href="https://survey-app-cf431.web.app" target="_blank">Survey App</a>
 
 ## Project Summary
 
