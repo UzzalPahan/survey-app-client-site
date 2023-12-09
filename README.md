@@ -11,14 +11,15 @@ This is a simple React project that [briefly describe what your project does].
 - [Used Technology](#used-technology)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
-- **Feature 1:** [Brief description of feature 1]
-- **Feature 2:** [Brief description of feature 2]
-- **Feature 3:** [Brief description of feature 3]
+- **Feature 1:** [signin and singout ]
+- **Feature 2:** [survey app have 4 role based web app. example ( admin, surveyor, pro-user, user]
+- **Feature 3:** [when anyone register servey app then her role is user]
+- **Feature 4:** [when anyone user buy our package ther her role is pro-user]
+- **Feature 5:** [admin can make surveyor any user or pro-user]
 
 ## Used Technology
 
